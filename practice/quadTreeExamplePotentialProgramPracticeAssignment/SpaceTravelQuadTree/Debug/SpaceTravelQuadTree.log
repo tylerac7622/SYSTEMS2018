@@ -1,6 +1,60 @@
-﻿  SpaceTravelQuadTree.vcxproj -> C:\Users\tyler\Desktop\quadTreeExamplePotentialProgramPracticeAssignment\quadTreeExampleNew\Debug\SpaceTravelQuadTree.exe
-  SpaceTravelQuadTree.vcxproj -> C:\Users\tyler\Desktop\quadTreeExamplePotentialProgramPracticeAssignment\quadTreeExampleNew\Debug\SpaceTravelQuadTree.pdb (Partial PDB)
-  C:\Users\tyler\Desktop\quadTreeExamplePotentialProgramPracticeAssignment\quadTreeExampleNew\GL\x86\bin\glew32.dll
-  C:\Users\tyler\Desktop\quadTreeExamplePotentialProgramPracticeAssignment\quadTreeExampleNew\GL\x86\bin\glew32mx.dll
-  C:\Users\tyler\Desktop\quadTreeExamplePotentialProgramPracticeAssignment\quadTreeExampleNew\GL\x86\bin\glfw3.dll
+﻿  spaceTravelFrustumCulled.cpp
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(89): warning C4101: 'c': unreferenced local variable
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(168): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(169): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(170): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(173): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(174): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(175): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(177): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(178): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(179): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(181): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(182): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(183): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(192): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(193): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(194): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(197): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(198): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(199): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(201): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(202): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(203): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(205): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(206): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(207): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(271): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(279): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(289): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(346): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(346): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(355): warning C4101: 'i': unreferenced local variable
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(427): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(484): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(484): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(517): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(539): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(560): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(563): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(566): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(567): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(570): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\spacetravelfrustumculled.cpp(571): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  QuadTree.cpp
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\quadtree.cpp(57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\quadtree.cpp(61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\quadtree.cpp(65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tyler\documents\github\systems2018\practice\quadtreeexamplepotentialprogrampracticeassignment\spacetravelquadtree\quadtree.cpp(69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  intersectionDetectionRoutines.cpp
+  InitShader.cpp
+  Asteroid.cpp
+  Generating Code...
+MSVCRTD.lib(initializers.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+  SpaceTravelQuadTree.vcxproj -> C:\Users\tyler\Documents\GitHub\SYSTEMS2018\practice\quadTreeExamplePotentialProgramPracticeAssignment\Debug\SpaceTravelQuadTree.exe
+  SpaceTravelQuadTree.vcxproj -> C:\Users\tyler\Documents\GitHub\SYSTEMS2018\practice\quadTreeExamplePotentialProgramPracticeAssignment\Debug\SpaceTravelQuadTree.pdb (Partial PDB)
+  C:\Users\tyler\Documents\GitHub\SYSTEMS2018\practice\quadTreeExamplePotentialProgramPracticeAssignment\GL\x86\bin\glew32.dll
+  C:\Users\tyler\Documents\GitHub\SYSTEMS2018\practice\quadTreeExamplePotentialProgramPracticeAssignment\GL\x86\bin\glew32mx.dll
+  C:\Users\tyler\Documents\GitHub\SYSTEMS2018\practice\quadTreeExamplePotentialProgramPracticeAssignment\GL\x86\bin\glfw3.dll
   3 File(s) copied
